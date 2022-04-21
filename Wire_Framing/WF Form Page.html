@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="eng">
+	
+<head>
+	<title>Form Web Page</title>
+    <link rel="stylesheet" href="form.Styles.css">
+</head>
+
+<body>
+    <section class="contact-container">
+        <h1>Title of Form</h1>
+        <div>
+			<form action="">
+                <label for="name">Name</label>
+                <div class="form-group">
+                    <input class="form-control" type="text" id="name">
+                </div>
+                <label for="email">Email</label>
+                <div class="form-group">
+                    <input class="form-control" type="email" id="email">
+                </div>
+                <label for="tel">Phone Number</label>
+                <div class="form-group">
+                    <input class="form-control" type="phone" id="phone">
+                </div>
+                <label for="message">Message</label>
+                <div class="form-group">
+                    <textarea class="form-control" id="message" rows="8"></textarea>
+                </div>
+				<p>Select the program(s) you would like information for:</p>
+        			<input type="checkbox" name="programs" value="volleyball">Volleyball<br />
+        			<input type="checkbox" name="programs" value="soccer">Soccer<br />
+        			<input type="checkbox" name="programs" value="golfsimulator">Golf Simulator<br><br />
+                <table>
+                    <tr>
+                        <td>
+                            <div class="submit-button">
+                                <button class="form-control">Submit</button>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="reset-button">
+                                <button class="form-control">Reset</button>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="home-button">
+                                <button class="form-control"><a href="#">Home</a></button>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </section>
+
+</body>
+
+</html>
