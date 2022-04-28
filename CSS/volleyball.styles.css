@@ -182,7 +182,7 @@ section#adult hr {
     width: 100px;
     height: 3px;
     margin: auto;
-    color: 11, 143, 224 rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     border: 0 none;
     margin-top: 25px;
     margin-bottom: 30px;
@@ -257,7 +257,7 @@ section#youth hr {
     width: 100px;
     height: 3px;
     margin: auto;
-    color: 11, 143, 224 rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     border: 0 none;
     margin-top: 25px;
     margin-bottom: 30px;
