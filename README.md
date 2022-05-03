@@ -23,5 +23,5 @@ The Tali Sports Center is an indoor sports facility encompassing a wide range of
 ### Contact
 Sean Doyle - Seandoyleitdeveloper@gmail.com
 
-Project Link: https://github.com/your_username/repo_name
+Project Link: https://seandoyle-mg.github.io/Project-One/
 
